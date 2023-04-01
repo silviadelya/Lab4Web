@@ -354,7 +354,7 @@ Cara aksesnya menjadi :
 
 ![Gambar 5](screenshot/home.png)
 
-* Halaman Tambah ( http://localhost/lab4/tambah )
+* Halaman Tambah ( http://localhost/lab4_php_modular/tambah )
 
 ![Gambar 6](screenshot/tambah.png)
 
