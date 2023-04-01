@@ -306,7 +306,7 @@ if ($conn == false)
 
 8. Membuat Routing
 
-<p>Routing digunakan untuk mempermudah akses halaman web agar SEO Friendly. Langkah awal adalah menyiapkan file utama **index.php** yang berisi routing untuk mengakses banyak halaman.</p>
+Routing digunakan untuk mempermudah akses halaman web agar SEO Friendly. Langkah awal adalah menyiapkan file utama **index.php** yang berisi routing untuk mengakses banyak halaman.
 
 Contohnya:
 * Halaman Home ( http://localhost/lab4_php_modular/index.php?mod=home )
@@ -334,8 +334,8 @@ default:
 
 10. Aktivasi **mod_rewrite (.htaccess)**
 
-<p>Mod_rewrite digunakan untuk mengubah URL dari query string menjadi SEO Friendly. Langkah awal yang harus disiapkan adalah aktivasi mod_rewrite pada webserver Apache2 pada
-configurasi **httpd.conf**.</p>
+Mod_rewrite digunakan untuk mengubah URL dari query string menjadi SEO Friendly. Langkah awal yang harus disiapkan adalah aktivasi mod_rewrite pada webserver Apache2 pada
+configurasi **httpd.conf**.
 
 Cara mengakses **httpd.conf** :
 * Klik folder **xampp**
@@ -354,7 +354,7 @@ Cara aksesnya menjadi :
 
 ![Gambar 5](screenshot/home.png)
 
-* Halaman Tambah ( http://localhost/lab4/about )
+* Halaman Tambah ( http://localhost/lab4/tambah )
 
 ![Gambar 6](screenshot/tambah.png)
 
